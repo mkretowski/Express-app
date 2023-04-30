@@ -1,0 +1,8 @@
+h1 {
+  font-weight: lighter;
+  font-style: italic;
+}
+.dark {
+  background-color: black;
+  color: white;
+}
